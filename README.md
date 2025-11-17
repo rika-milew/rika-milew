@@ -34,6 +34,6 @@ A JavaScript memory game built with DOM manipulation and event handling.
 ## Contacts
 Email: erika.milewska@gmail.com
 
-Telegram: [@rika_mee](https://t.me/rika_me)
+Telegram: [@rika_mee](https://t.me/rika_mee)
 
 GitHub: [rika-milew](https://github.com/rika-milew)

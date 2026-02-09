@@ -1,4 +1,4 @@
-# Rika Milew  
+# Erika Milevskaya 
 ### Junior Frontend Developer
 
 ## About Me

@@ -4,9 +4,9 @@
 ## About Me
 
 - Frontend developer with a background in translation and content management.
-- Currently studying frontend at RS School (JS/FE).
+- Graduated from RS School (JS/FE & React).
 - Passionate about pixel-perfect layout, UI logic, and creating calm, intuitive interfaces.
-- I speak English at **B2 level**.
+- I speak English at **C1 level**.
 - Looking for my first commercial projects and internships.
 
 ## Tech Stack
@@ -60,7 +60,7 @@
 ## Projects
 
 ### **Portfolio**
-🔗 [My CV:](https://rika-milew-cv.vercel.app/) 
+🔗 [My CV](https://rika-milew-cv.vercel.app/) 
 
 ## Contacts
 Email: erika.milewska@gmail.com
